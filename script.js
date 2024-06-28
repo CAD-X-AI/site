@@ -43,7 +43,7 @@ function showDesign() {
 
 function showFuture() {
   clear()
-  typeWriter('De Futuro Ipsum')
+  typeWriter('AI Design Model')
 
 
 }
